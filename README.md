@@ -1,6 +1,6 @@
 Basic Image proccesing Algorithm for segmenting the blood vessels in the retina using the threshold method.
 
 Requires:
-1) That you manually decide on the threshold.
+- That you manually decide on the threshold.
 
-This program requires a mask image and a ground truth image to calculate the quality of the segmentation (Accuracy, Sensitivity, SPecificity). It is therefore not a good candidate for creating an automated segmentation algorithm.
+This program requires a mask image and a ground truth image to calculate the quality of the segmentation (Accuracy, Sensitivity, Specificity). It is therefore not a good candidate for creating an automated segmentation algorithm.

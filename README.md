@@ -4,3 +4,5 @@ Requires:
 - That you manually decide on the threshold.
 
 This program requires a mask image and a ground truth image to calculate the quality of the segmentation (Accuracy, Sensitivity, Specificity). It is therefore not a good candidate for creating an automated segmentation algorithm.
+
+![alt tag](https://raw.githubusercontent.com/Jonathan-Greve/RetinaSegmentation1/21_training.tif)
